@@ -1,6 +1,6 @@
 # 💰 Personal Finance Tracker (Python + SQLite)
 
-Hey! 👋 This is a simple little project I made while learning Python.  
+Hi! 👋 This is a simple little project I made while learning Python.  
 It’s a command-line app that helps you track your spending and income. I built it to get more practice with things like working with databases and user input in Python.
 
 ### 🔧 What it can do:
